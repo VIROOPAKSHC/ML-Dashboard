@@ -4,7 +4,6 @@ scikit-learn
 matplotlib
 pandas
 numpy
-scipy
-scikit-plot
 scipy==1.11.4
+scikit-plot
 lime
