@@ -1,3 +1,6 @@
 streamlit
 plost
 scikit-learn
+matplotlib
+pandas
+numpy
