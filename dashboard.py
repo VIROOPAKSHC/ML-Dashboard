@@ -12,8 +12,8 @@ import scikitplot as skplt
 
 from lime import lime_tabular
 
-train_df = pd.read_csv(r"C:\Users\ADMIN\Downloads\kaggle-data\train.csv")
-test_df = pd.read_csv(r"C:\Users\ADMIN\Downloads\kaggle-data\test.csv")
+train_df = pd.read_csv(r"\kaggle-data\train.csv")
+test_df = pd.read_csv(r"\kaggle-data\test.csv")
 
 X = train_df.drop("price_range",axis=1)
 Y = train_df["price_range"]
