@@ -7,3 +7,4 @@ numpy
 scipy
 scikit-plot
 scipy>=1.6.1
+lime
