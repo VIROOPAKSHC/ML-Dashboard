@@ -1,5 +1,5 @@
 import streamlit as st
-from sklearn.datasets import load_wine
+# from sklearn.datasets import load_wine
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix, accuracy_score,classification_report
